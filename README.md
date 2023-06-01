@@ -1,4 +1,5 @@
 ## Ejercicio de React con Vite
+## Trabajo 4 y 5
 
 Este es un ejercicio que utiliza componentes, pasaje de props y un formulario para crear distintas cards que se tipea en el formulario. Se utilizan los hooks useState y useEffect
 
@@ -16,7 +17,7 @@ Asegúrate de tener instalados los siguientes componentes antes de comenzar:
 Clona o descarga este repositorio en tu máquina local utilizando el siguiente comando.
 
 ```
-git clone https://github.com/Diego2997/Ejercicio6Colores.git
+git clone https://github.com/Diego2997/Ejericio4y5Tareas.git
 ```
 
 Ejecuta el siguiente comando para instalar las dependencias del proyecto:
